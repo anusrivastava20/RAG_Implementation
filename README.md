@@ -179,6 +179,3 @@ response = rag_pipeline(question, vector_store, prompt_template=custom_prompt)
 # Advanced RAG
 # Modify the advanced_rag_prompt variable at the top of the file
 ```
-
-## License
-[MIT License](LICENSE)
